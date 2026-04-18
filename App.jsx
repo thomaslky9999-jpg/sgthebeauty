@@ -20,10 +20,10 @@ const promos = [
 
 const gallery = [
   {
-    title: "Glossy Green Bloom",
-    subtitle: "Soft floral gel set",
+    title: "Logo",
+    subtitle: "Lash.Nail Salon",
     image:
-      "https://images.unsplash.com/photo-1604654894610-df63bc536371?auto=format&fit=crop&w=900&q=80",
+      "Logo.jpg",
   },
   {
     title: "Minimal Nude Elegance",
