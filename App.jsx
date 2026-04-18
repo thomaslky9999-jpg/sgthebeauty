@@ -23,7 +23,7 @@ const gallery = [
     title: "Logo",
     subtitle: "Lash.Nail Salon",
     image:
-      "Logo.jpg",
+      "/images/logo.jpg",
   },
   {
     title: "Minimal Nude Elegance",
